@@ -1,12 +1,25 @@
-# React + Vite
+ConvoAi is an interactive AI-powered chat application built with React. This project allows users to have multiple conversations simultaneously with AI, generate text or image-based responses, and explore a community gallery of shared content. It’s designed with a modern UI/UX, featuring light/dark themes, smooth transitions, and responsive layouts for desktop and mobile devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
 
-Currently, two official plugins are available:
+Multi-Chat Support: Switch between different conversations easily and manage chat history.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Text & Image AI Generation: Interact with AI for both textual responses and AI-generated images.
 
-## Expanding the ESLint configuration
+Community Gallery: View and share generated images with the community.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Credits System: Users can purchase credits to access premium features and AI resources.
+
+Dark/Light Mode: Toggle between themes with smooth animations.
+
+Responsive Design: Fully responsive layout for a seamless experience on all devices.
+
+Modern UI: Gradient backgrounds, smooth transitions, and hover effects enhance user experience.
+
+Tech Stack:
+
+Frontend: React, Tailwind CSS
+
+State Management: Context API
+
+Libraries: Moment.js for timestamps, custom assets for icons and graphics
